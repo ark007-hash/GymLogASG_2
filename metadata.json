@@ -1,0 +1,8 @@
+{
+  "name": "GymLog",
+  "description": "A personal workout tracker designed for gym use.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
